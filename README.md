@@ -1,9 +1,10 @@
 
+
 # ☕ **CuratedlistNFT Smart Contract
 
 A simple ERC721-based NFT contract allowing users to mint NFTs only if they are whitelisted. Built using Solidity and OpenZeppelin, deployable on core-blockchains.
 
----
+--------
 
 ## ⚙️ Setup Instructions
 
